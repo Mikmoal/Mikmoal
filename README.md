@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 <!--
 **Mikmoal/Mikmoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working at Racing Cargo as IT support specialist, i´m focused on learning more about c#, i've already finished university in computer science studies and i'm interested in learning more about the microsoft technologies. ✌
