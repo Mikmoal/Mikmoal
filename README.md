@@ -9,4 +9,4 @@ Laravel · Filament · Livewire · Alpine.js · MySQL · Tailwind CSS · Python 
 - Sistema (privado): autenticación con Microsoft Entra ID, integración con SharePoint, tiempo real con Laravel Reverb y generación de documentos Word/PDF.
 
 ## Contacto
-[LinkedIn](in/miguelangelmoalcantara) · [correo@ejemplo.com](mailto:miguel.moam@outlook.com)
+[LinkedIn](in/miguelangelmoalcantara) · [miguel.moam@outlook.com](mailto:miguel.moam@outlook.com)
